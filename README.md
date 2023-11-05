@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chenh Tien Luan</h1>
+<h1 align="center">Hi 👋, I'm Jay Hobbs</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
